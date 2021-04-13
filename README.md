@@ -3,7 +3,11 @@
 <i>
 <h2> TEAM NAME : THE SPY SQUAD </h2><br>
 
-### 🕵️‍♀️ Team Members: Sonali Preetha Nandagopalan, Prakriti Sharma K P,Yashmitha R and Silpa S
+### 🕵️‍♀️ Team Members:<br>
+Sonali Preetha Nandagopalan,<br> 
+Prakriti Sharma K P,<br>
+Yashmitha R and <br>
+Silpa S
 
 <br>
 
