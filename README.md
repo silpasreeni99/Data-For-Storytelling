@@ -59,7 +59,7 @@
 
 ## Getting Started
 
-✅ Detailed instructions regarding how to retrain the model and make predictions on the video is given in the pdf named: <b>AUTOWASTIDE.pdf<b>
+✅ Detailed instructions regarding how to run the code and make predictions on the dataset provided is given in the pdf named: <b>AUTOWASTIDE.pdf<b>
 <br></br>
 
 
