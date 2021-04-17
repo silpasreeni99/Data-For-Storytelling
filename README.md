@@ -58,7 +58,7 @@
 
 
 ## 📈IMPLEMENTATION
-<img src="https://github.com/silpasreeni99/Data-For-Storytelling/blob/main/implementation/main.png">
+<img src="https://github.com/silpasreeni99/Data-For-Storytelling/blob/main/implementation/main.jpeg">
 <br></br>
 
 <img src="https://github.com/silpasreeni99/Data-For-Storytelling/blob/main/implementation/process.jpeg">
