@@ -107,7 +107,7 @@
 
 ## Getting Started
 
-✅ Detailed instructions regarding how to run the code and make predictions on the dataset provided is given in the pdf named: <b>GUIDE<b><a href="https://github.com/silpasreeni99/Data-For-Storytelling/blob/main/GUIDE.pdf"</a>
+✅ Detailed instructions regarding how to run the code and make predictions on the dataset provided is given in the pdf named: <a href="https://github.com/silpasreeni99/Data-For-Storytelling/blob/main/GUIDE.pdf"><b>GUIDE<b></a>
 <br></br>
 
 
