@@ -116,7 +116,7 @@
 <br></br>
 
 ## DATASET LINK:
-<a href="https://drive.google.com/file/d/1LytwxfjLmMhSZUv3dl76t_pNeBxVyD52/view?usp=sharing"> 📂 DATASET LINK </a>
+<a href="https://github.com/silpasreeni99/Data-For-Storytelling/blob/main/StudentsPerformance.csv"> 📂 DATASET LINK </a>
 <br></br>
 
 ## Contributors
