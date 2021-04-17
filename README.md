@@ -112,7 +112,7 @@
 
 
 ## VIDEO PRESENATION OF THE DATA DEMYSTIFIER:
-<a href="https://drive.google.com/file/d/1P64HOzly0eu6iu8PyOqDjKuZZNLjSGIC/view?usp=sharing"> 📷 VIDEO LINK </a>
+<a href="https://drive.google.com/file/d/1eOV91i8js_JC3QI50ZZ7t58DuJHLH8x1/view?usp=sharing"> 📷 VIDEO LINK </a>
 <br></br>
 
 ## DATASET LINK:
