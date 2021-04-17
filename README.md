@@ -41,7 +41,6 @@
 
         💮 At the end of the process,conclusion on the data analysis is provided.
 
-📌  All the vital insights provided from the graph can be stored in a file for future reference. 
 <br></br>
 
 ### 📊PROPOSED SYSTEM
