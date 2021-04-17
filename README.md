@@ -93,7 +93,7 @@
 <br><br>
 
 <i>Group 8: Overall Scores and Individual Scores</i><br><br>
-<img src="https://github.com/silpasreeni99/Data-For-Storytelling/blob/main/implementation/grp8.png">
+<img src="https://github.com/silpasreeni99/Data-For-Storytelling/blob/main/implementation/grp8(2).png">
 <br><br>
 
 <i>Group 9: Overall view of Relationships </i><br><br>
