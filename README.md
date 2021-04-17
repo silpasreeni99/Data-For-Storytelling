@@ -33,7 +33,7 @@
 
 📌The proposed solution is "The Data Demystifier".
 
-        💮The model accepts the dataset as input through a tkinter window,where the user can also set the language in which they prefer to hear the data interpreted story.
+        💮The system accepts the dataset as input through a tkinter window,where the user can also set the language in which they prefer to hear the data interpreted story.
         
         💮The data is processed and different types of graphs are generated in order to visualise data.
 
@@ -41,11 +41,11 @@
 
         💮 At the end of the process,conclusion on the data analysis is provided.
 
-📌  All the vital insights provided from the graph can be stored in a file and then mailed to the organisation for future reference. 
+📌  All the vital insights provided from the graph can be stored in a file for future reference. 
 <br></br>
 
-### 📊PROCESS FLOW
-<img src="https://github.com/silpasreeni99/Data-For-Storytelling/blob/main/process%20flow.jpeg">
+### 📊PROPOSED SYSTEM
+<img src="https://github.com/silpasreeni99/Data-For-Storytelling/blob/main/process.jpeg">
 <br></br>
 
 ### 📊OVERVIEW OF TASK
@@ -111,8 +111,12 @@
 <br></br>
 
 
-## VIDEO PRESENTATION OF THE DATA DEMYSTIFIER:
-<a href="https://drive.google.com/file/d/1eOV91i8js_JC3QI50ZZ7t58DuJHLH8x1/view?usp=sharing"> 📷 VIDEO LINK </a>
+## PRESENTAION OF THE PROJECT:
+<a href="https://drive.google.com/file/d/1eOV91i8js_JC3QI50ZZ7t58DuJHLH8x1/view?usp=sharing"> 📷 PRESENTATION LINK </a>
+<br></br>
+
+## DEMO OF THE DATA DEMYSTIFIER:
+<a href="https://drive.google.com/file/d/1eX8o9fXBF8MtWB67MXNbzfhOpwTG-DH0/view?usp=sharing"> 📷 DEMO LINK </a>
 <br></br>
 
 ## DATASET LINK:
