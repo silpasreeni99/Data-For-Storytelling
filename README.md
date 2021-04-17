@@ -23,7 +23,7 @@
 
 📌 In addition, it needs a good domain knowledge to build business insights from data. Not every user is a business expert. 
 
-📌 Given a snapshot of data, we would like to build a system which can tell a story from the data. 
+📌 Given a particular dataset, we would like to build a system which can tell a story from the data. 
 
 📌 The story includes the automation in the sense of being driven by the data, context and personal preferences. 
 
@@ -53,8 +53,52 @@
 <br></br>
 
 ### 📊GLIMPSE INTO THE DATASET
-<img src="https://github.com/silpasreeni99/Data-For-Storytelling/blob/main/dataset.png">
+<img src="https://github.com/silpasreeni99/Data-For-Storytelling/blob/main/dataset.jpeg">
 <br></br>
+
+
+## 📈IMPLEMENTATION
+<img src="https://github.com/silpasreeni99/Data-For-Storytelling/blob/main/implementation/main.png">
+<br></br>
+
+<img src="https://github.com/silpasreeni99/Data-For-Storytelling/blob/main/implementation/process.jpeg">
+<br></br>
+
+<i>Group 1: Frequency of students under\neach categorical feature </i><br><br>
+<img src="https://github.com/silpasreeni99/Data-For-Storytelling/blob/main/implementation/grp1.png">
+<br><br>
+
+<i>Group 2: Distribution of student scores </i><br><br>
+<img src="https://github.com/silpasreeni99/Data-For-Storytelling/blob/main/implementation/grp2.png">
+<br><br>
+
+<i>Group 3: Student Scores wrt Categorical Features </i><br><br>
+<img src="https://github.com/silpasreeni99/Data-For-Storytelling/blob/main/implementation/grp3.png">
+<br><br>
+
+<i>Group 4: Distribution of students by Gender </i><br><br>
+<img src="https://github.com/silpasreeni99/Data-For-Storytelling/blob/main/implementation/grp4.png">
+<br><br>
+
+<i>Group 5: Scores wrt Gender</i><br><br>
+<img src="https://github.com/silpasreeni99/Data-For-Storytelling/blob/main/implementation/grp5.png">
+<br><br>
+
+<i>Group 6: Distribution of Scores wrt Lunch</i><br><br>
+<img src="https://github.com/silpasreeni99/Data-For-Storytelling/blob/main/implementation/grp6.png">
+<br><br>
+
+<i>Group 7: 3D Distribution of Scores</i><br><br>
+<img src="https://github.com/silpasreeni99/Data-For-Storytelling/blob/main/implementation/grp7.png">
+<br><br>
+
+<i>Group 8: Overall Scores and Individual Scores</i><br><br>
+<img src="https://github.com/silpasreeni99/Data-For-Storytelling/blob/main/implementation/grp8.png">
+<br><br>
+
+<i>Group 9: Overall view of Relationships </i><br><br>
+<img src="https://github.com/silpasreeni99/Data-For-Storytelling/blob/main/implementation/grp9.png">
+<br><br>
 
 ### 📈 CONCLUSION
 <i>In conclusion, students who completed the test preparation course, whose parents have a master’s degree and the lunch category has a standard value tend to score higher in maths, reading and writing examinations. Thus in education institutions, students should be encouraged to take up the test preparation course. Factors parental education and lunch cannot be changed, but if the student puts in effort by completing the course,he/she will definitely score well.</i>
