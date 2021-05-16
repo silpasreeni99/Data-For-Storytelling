@@ -51,8 +51,20 @@
 <img src="https://github.com/silpasreeni99/Data-For-Storytelling/blob/main/task%20overview.jpg">
 <br></br>
 
-### 📊GLIMPSE INTO THE DATASET
-<img src="https://github.com/silpasreeni99/Data-For-Storytelling/blob/main/dataset.jpeg">
+### 📊GLIMPSE INTO THE DATASETS USED
+<img src="https://github.com/silpasreeni99/Data-For-Storytelling/blob/main/implementation/dataset_glimpse.png">
+<br></br>
+
+### 📊DASHBOARD OF NETFLIX DATASET
+<img src="https://github.com/silpasreeni99/Data-For-Storytelling/blob/main/implementation/netflix_db.PNG">
+<br></br>
+
+### 📊DASHBOARD OF STUDENTS PERFORMANCE IN USA DATASET
+<img src="https://github.com/silpasreeni99/Data-For-Storytelling/blob/main/implementation/student_db.PNG">
+<br></br>
+
+### 📊DATASET OF MENTAL HEALTH IN TECH SURVEY DATASET
+<img src="https://github.com/silpasreeni99/Data-For-Storytelling/blob/main/implementation/mental_healthdb.PNG">
 <br></br>
 
 
