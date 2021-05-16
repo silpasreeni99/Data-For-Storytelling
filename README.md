@@ -122,8 +122,8 @@
 <br></br>
 
 
-## PRESENTAION OF THE PROJECT:
-<a href="https://drive.google.com/file/d/1eOV91i8js_JC3QI50ZZ7t58DuJHLH8x1/view?usp=sharing"> 📷 PRESENTATION LINK </a>
+## PRESENTATION OF THE PROJECT:
+<a href="https://drive.google.com/file/d/1k-Pvg7FAqk_8KKWkASIRRNyhP8Och1wf/view?usp=sharing"> 📷 PRESENTATION LINK </a>
 <br></br>
 
 ## DEMO OF THE DATA DEMYSTIFIER:
@@ -133,9 +133,9 @@
 ## DATASET LINK:
 <a href="https://github.com/silpasreeni99/Data-For-Storytelling/blob/main/StudentsPerformance.csv"> 📂 STUDENTS PERFORMANCE DATASET </a>
 <br></br>
-<a href="https://github.com/silpasreeni99/Data-For-Storytelling/blob/main/StudentsPerformance.csv"> 📂 NETFLIX DATASET </a>
+<a href="https://github.com/silpasreeni99/Data-For-Storytelling/blob/main/netflix_titles.csv"> 📂 NETFLIX DATASET </a>
 <br></br>
-<a href="https://github.com/silpasreeni99/Data-For-Storytelling/blob/main/StudentsPerformance.csv"> 📂MENTAL HEALTH FOR TECH SURVEY DATASET </a>
+<a href="https://github.com/silpasreeni99/Data-For-Storytelling/blob/main/survey_2014.csv"> 📂MENTAL HEALTH FOR TECH SURVEY DATASET </a>
 <br></br>
 
 ## Contributors
