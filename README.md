@@ -64,7 +64,7 @@
 <br></br>
 
 ### 📊DATASET OF MENTAL HEALTH IN TECH SURVEY DATASET
-<img src="https://github.com/silpasreeni99/Data-For-Storytelling/blob/main/implementation/mental_healthdb.PNG">
+<img src="https://github.com/silpasreeni99/Data-For-Storytelling/blob/main/implementation/mental_healthdb1.PNG">
 <br></br>
 
 
