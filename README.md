@@ -127,7 +127,7 @@
 <br></br>
 
 ## DEMO OF THE DATA DEMYSTIFIER:
-<a href="https://drive.google.com/file/d/1eX8o9fXBF8MtWB67MXNbzfhOpwTG-DH0/view?usp=sharing"> 📷 DEMO LINK </a>
+<a href="https://drive.google.com/file/d/1k0Yt0fxigHia8o_dBu31eH7I0zQnAEIj/view?usp=sharing"> 📷 DEMO LINK </a>
 <br></br>
 
 ## DATASET LINK:
